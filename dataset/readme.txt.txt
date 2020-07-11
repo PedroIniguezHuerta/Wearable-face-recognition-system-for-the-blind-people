@@ -1,0 +1,1 @@
+In this directory are stored the images that will be used for creating the dataset and train the machine learning models

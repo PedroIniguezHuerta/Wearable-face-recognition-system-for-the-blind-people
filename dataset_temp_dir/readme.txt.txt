@@ -1,0 +1,1 @@
+This is a temporal directory used to store images captured during the registration process.
